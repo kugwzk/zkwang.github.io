@@ -15,9 +15,9 @@ I am particularly interested in exploring the intrinsic relationship between mod
  
 ### News:
 
-* :fire::fire: Two papers have been accepted by ICLR'25. See you in Singapore!
-* :fire: One paper has been accepted by COLING'25. See you in Abu Dhabi, UAE! 
-* :rocket: [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released.
+* 🔥🔥 Two papers have been accepted by ICLR'25. See you in Singapore!
+* 🔥 One paper has been accepted by COLING'25. See you in Abu Dhabi, UAE! 
+* 🚀 [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released.
 
 ### Selected Publications:
 Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.)
