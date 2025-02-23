@@ -63,6 +63,7 @@ Qwen Team <br>
 [[project]](https://github.com/QwenLM/Qwen2.5)
 [[collection]](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)
 <br>
+
 * Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation <br>
 Jingchang Chen, Hongxuan Tang, Zheng Chu, Qianglong Chen, **Zekun Wang**, Ming Liu, Bing Qin <br>
 **NeurIPS 2024 Oral** <br>
