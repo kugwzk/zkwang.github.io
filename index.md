@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am currently a final year Ph.D. student from SCIR @ Harbin Institute of Technology. Fortunately, I am advised by Prof. Ming Liu and Prof. Bin Qin. I expect to graduate in 2025. Prior to this, I received my bachelar degree from Harbin Institute of Technology n 2019.
+Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am currently a final year Ph.D. student from SCIR @ Harbin Institute of Technology. Fortunately, I am advised by Prof. Ming Liu and Prof. Bin Qin. I expect to graduate in 2025. Prior to this, I received my bachelar degree from Harbin Institute of Technology in 2019.
 
 My research interests have evolved to focus on developing: 
 * Model/Data-Efficiency & Acceleration: Efficient architecture for XFMRs or hybrid ones; Pruning, distillation, quantization etc. to reduce model size and speedup inference; Efficient training LLMs/MLLMs with a small cost (time or data).
