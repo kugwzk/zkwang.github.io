@@ -15,99 +15,74 @@ I am particularly interested in exploring the intrinsic relationship between mod
  
 ### News:
 
-* :fire::fire: Two papers have been accepted by ICLR'25 
+* :fire::fire: Two papers have been accepted by ICLR'25. See you in Singapore!
+* :fire: One paper has been accepted by COLING'25. See you in Abu Dhabi, UAE! 
 * :rocket: [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released.
 
-### Publications:
+### Selected Publications:
+Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.)
 
-[[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions)
-
-* Improved Diffusion-based Generative Model with Better Adversarial Robustness. <br>
-**Zekun Wang**\*, Mingyang Yi\*, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma.<br>
-**ICLR 2025** [![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://kugwzk.github.io/assets/pubs/iclr/2025/at_diff.pdf) <br>
-
+* Improved Diffusion-based Generative Model with Better Adversarial Robustness <br>
+**Zekun Wang**\*, Mingyang Yi\*, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma<br>
+**ICLR 2025** <br> 
+[[pdf]](https://kugwzk.github.io/assets/pubs/iclr/2025/at_diff.pdf) <br>
 
 
-* Parallelizing Linear Transformers with the Delta Rule over Sequence Length <br>
-[Songlin Yang](https://sustcsonglin.github.io), [Bailin Wang](https://berlino.github.io), **Yu Zhang**, [Yikang Shen](https://mitibmwatsonailab.mit.edu/people/yikang-shen), [Yoon Kim](https://people.csail.mit.edu/yoonkim) <br>
-**NeurIPS 2024**<br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/neurips/2024/deltanet.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/neurips/2024/deltanet.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2406.06484)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/sustcsonglin/flash-linear-attention)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Parallelizing-Linear-Transformers-with-the-Delta-Yang-Wang/7afaabb73bec969c0937be46b9f0f757e07c8534)
 
-* Scalable MatMul-free Language Modeling <br>
-[Ruijie Zhu](https://ruijie-zhu.github.io), **Yu Zhang**, Ethan Sifferman, Tyler Sheaves, Yiqiao Wang, Dustin Richmond, Peng Zhou, Jason K. Eshraghian <br>
-**Preprint**<br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/neurips/2024/mmf.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/neurips/2024/mmf.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2406.02528)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/ridgerchu/matmulfreellm/)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Scalable-MatMul-free-Language-Modeling-Zhu-Zhang/401c4147375b016d4758cf2dd859232a8271fdcd)
+* AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials <br>
+Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, **Zekun Wang**, Yuchen Mao, Caiming Xiong, Tao Yu <br>
+**ICLR 2025 Spotlight**<br>
+[[pdf]](https://arxiv.org/abs/2412.09605)
+[[project]](https://agenttrek.github.io) <br>
 
-* Non-autoregressive Text Editing with Copy-aware Latent Alignments <br>
-**Yu Zhang**\*, [Yue Zhang\*](https://hillzhang1999.github.io), [Leyang Cui](https://nealcly.github.io), Guohong Fu <br>
-**EMNLP 2023** <br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/emnlp/2023/ctc.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/emnlp/2023/ctc.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2310.07821)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/yzhangcs/ctc-copy)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Non-autoregressive-Text-Editing-with-Copy-aware-Zhang-Zhang/116277fd27c97d50bba2d8023d3c590c1ea8187b)
+* CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information <br>
+Yuxin Wang\*, Minghua Ma\*, **Zekun Wang**\*, Jingchang Chen, Huiming Fan, Liping Shan, Qing Yang, Dongliang Xu, Ming Liu, Bing Qin. <br>
+**COLING 2025**<br>
+[[pdf]](https://aclanthology.org/2025.coling-main.626.pdf)
+[[project]](https://github.com/wyxscir/CFSP) 
+<br>
 
-* Semantic Role Labeling as Dependency Parsing: Exploring Latent Tree Structures Inside Arguments <br>
-**Yu Zhang**, Qingrong Xia, Shilin Zhou, [Yong Jiang](https://jiangyong.site), Guohong Fu, Min Zhang <br>
-**COLING 2022** <br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/coling/2022/crfsrl.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/coling/2022/crfsrl.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2110.06865)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/yzhangcs/crfsrl)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Semantic-Role-Labeling-as-Dependency-Parsing%3A-Tree-Zhang-Xia/64332d61dfef5ac685500a238b8a79d75152c164)
+* Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-ofExpert Models <br>
+Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, **Zekun Wang**, Rui Men, Ivan Titov, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
+**Preprint** 2025 <br>
+[[pdf]](https://arxiv.org/abs/2501.11873)
+<br>
 
-* Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing <br>
-Shilin Zhou, Qingrong Xia, Zhenghua Li, **Yu Zhang**, Yu Hong, Min Zhang <br>
-**COLING 2022** (<strong><i style="color:#e74d3c">Best Paper Award</i></strong>)<br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/coling/2022/graphsrl.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/coling/2022/graphsrl.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2112.02970)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/zsLin177/SRL-as-GP)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Fast-and-Accurate-End-to-End-Span-based-Semantic-as-Zhou-Xia/ea9a2d14672c3cc0ff92510386f46fb2b152570c)
 
-* Fast and Accurate Neural CRF Constituency Parsing <br>
-**Yu Zhang**\*, [Houquan Zhou\*](https://cv.hqzhou.com), Zhenghua Li <br>
-**IJCAI 2020** <br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/ijcai/2020/crfpar.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/ijcai/2020/crfpar.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2008.03736)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/yzhangcs/crfpar)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Fast-and-Accurate-Neural-CRF-Constituency-Parsing-Zhang-Zhou/46fe2ae301aeb75b25ebca0bdc26132ca46f5101)
+* Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction <br>
+Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong <br>
+**Preprint** 2024 <br>
+[[pdf]](https://arxiv.org/abs/2412.04454)
+[[project]](https://aguvis-project.github.io/) 
+<br>
 
-* Efficient Second-Order TreeCRF for Neural Dependency Parsing <br>
-**Yu Zhang**, Zhenghua Li, Min Zhang <br>
-**ACL 2020** <br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/acl/2020/crfpar.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/acl/2020/crfpar.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2005.00975)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/yzhangcs/crfpar)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Efficient-Second-Order-TreeCRF-for-Neural-Parsing-Zhang-Li/ce18780963b067a1295fc847e7ab33f2fcbfaca1)
+* Qwen2.5 Technical Report <br>
+Qwen Team <br>
+**Technical Report** <br>
+[[pdf]](https://arxiv.org/abs/2412.15115)
+[[project]](https://github.com/QwenLM/Qwen2.5)
+[[collection]](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)
+<br>
+* Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation <br>
+Jingchang Chen, Hongxuan Tang, Zheng Chu, Qianglong Chen, **Zekun Wang**, Ming Liu, Bing Qin <br>
+**NeurIPS 2024 Oral** <br>
+[[pdf]](https://arxiv.org/abs/2405.20092) <br>
 
-* Is POS Tagging Necessary or Even Helpful for Neural Dependency Parsing?<br>
-[Houquan Zhou\*](https://cv.hqzhou.com), **Yu Zhang**\*, Zhenghua Li, Min Zhang <br>
-**NLPCC 2020** (<strong><i style="color:#e74d3c">Best Paper Award</i></strong>)<br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/nlpcc/2020/posdep.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/nlpcc/2020/posdep.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2003.03204)
-[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github&logoColor=181717)](https://github.com/Jacob-Zhou/stack-parser)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Is-POS-Tagging-Necessary-or-Even-Helpful-for-Neural-Zhang-Li/3bb577d87ae8e0d45a223f65db24ab479fbda174)
+* SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models <br>
+**Zekun Wang**\*, **Jingchang Chen**\*, Wangchunshu Zhou, Haichao Zhu, Jiafeng Liang, Liping Shan, Ming Liu, Dongliang Xu, Qing Yang, Bing Qin <br>
+**COLING 2024 Oral** <br>
+[[pdf]](https://aclanthology.org/2024.lrec-main.1300.pdf) <br>
 
-* HLT@SUDA at SemEval-2019 Task 1: UCCA Graph Parsing as Constituent Tree Parsing <br>
-Wei Jiang, Zhenghua Li, **Yu Zhang**, Min Zhang <br>
-**SemEval 2019** <br>
-[![paper](https://img.shields.io/badge/paper-d6d6d6?style=flat-square&logo=overleaf)](https://yzhang.site/assets/pubs/semeval/2019/const.pdf)
-[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://yzhang.site/assets/pubs/semeval/2019/const.bib)
-[![arxiv](https://img.shields.io/badge/arxiv-d6d6d6.svg?style=flat-square&logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/1903.04153)
-[![code](https://img.shields.io/badge/code-d6d6d6?style=flat-square&logo=github&logoColor=181717)](https://github.com/SUDA-LA/ucca-parser)
-[![citation](https://img.shields.io/badge/citation-0-d6d6d6.svg?style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/HLT%40SUDA-at-SemEval-2019-Task-1%3A-UCCA-Graph-Parsing-Jiang-Zhang/9c690b828a508635506018ddbd03d63d4e08a380)
+* Distilled Dual-Encoder Model for Vision-Language Understanding <br>
+**Zekun Wang**, Wenhui Wang, Haichao Zhu, Ming Liu, Bing Qin, Furu Wei <br>
+**EMNLP 2022**
+[[pdf]](https://aclanthology.org/2022.emnlp-main.608.pdf)
+[[project]](https://github.com/kugwzk/DiDE)
+
+* Less Is More: Domain Adaptation with Lottery Ticket for Reading Comprehension <br>
+Haichao Zhu, **Zekun Wang**, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin <br>
+**Findings of EMNLP 2021** <br>
+[[pdf]](https://aclanthology.org/2021.findings-emnlp.95/) <br>
 
 <!-- ### Projects: -->
 
