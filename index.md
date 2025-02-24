@@ -2,12 +2,12 @@
 layout: homepage
 ---
 
-Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am currently a final year Ph.D. student from SCIR @ Harbin Institute of Technology. Fortunately, I am advised by Prof. Ming Liu and Prof. Bin Qin. I expect to graduate in 2025. Prior to this, I received my bachelar degree from Harbin Institute of Technology in 2019.
+Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am currently a final year Ph.D. student from SCIR @ Harbin Institute of Technology. Fortunately, I am advised by Prof. Ming Liu and Prof. Bing Qin. I expect to graduate in 2025. Prior to this, I received my bachelar degree from Harbin Institute of Technology in 2019.
 
 My research interests have evolved to focus on developing: 
-* Model/Data-Efficiency & Acceleration: Efficient architecture for XFMRs or hybrid ones; Pruning, distillation, quantization etc. to reduce model size and speedup inference; Efficient training LLMs/MLLMs with a small cost (time or data).
+* **Model/Data-Efficiency & Acceleration**: Efficient architecture for XFMRs or **hybrid** ones; Pruning, distillation, quantization etc. to reduce model size and speedup inference; Efficient training LLMs/MLLMs with a small cost (time or data).
 
-* Multi-modal Models and Applications: Large multi-modal models (comprehensive, generation, or unify the both), which support diverse tasks and can be applied as agents in digital or embodied environments.
+* **Multi-modal Models and Applications**: Large multi-modal models (comprehensive, generation, or unify the both), which support diverse tasks and can be applied as **agents** in digital or embodied environments.
 
 
 I am particularly interested in exploring the intrinsic relationship between model (efficient) architecture and its performance, as well as how to unlock its potential in real-world scenarios.
