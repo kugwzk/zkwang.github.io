@@ -57,7 +57,7 @@ Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha
 <br>
 
 * Qwen2.5 Technical Report <br>
-Qwen Team <br>
+**Qwen Team** <br>
 **Technical Report** <br>
 [[pdf]](https://arxiv.org/abs/2412.15115)
 [[project]](https://github.com/QwenLM/Qwen2.5)
@@ -70,7 +70,7 @@ Jingchang Chen, Hongxuan Tang, Zheng Chu, Qianglong Chen, **Zekun Wang**, Ming L
 [[pdf]](https://arxiv.org/abs/2405.20092) <br>
 
 * SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models <br>
-**Zekun Wang**\*, **Jingchang Chen**\*, Wangchunshu Zhou, Haichao Zhu, Jiafeng Liang, Liping Shan, Ming Liu, Dongliang Xu, Qing Yang, Bing Qin <br>
+**Zekun Wang**\*, Jingchang Chen\*, Wangchunshu Zhou, Haichao Zhu, Jiafeng Liang, Liping Shan, Ming Liu, Dongliang Xu, Qing Yang, Bing Qin <br>
 **COLING 2024 Oral** <br>
 [[pdf]](https://aclanthology.org/2024.lrec-main.1300.pdf) <br>
 
